@@ -1,5 +1,5 @@
 from random import randrange
-
+#haha
 col = 7
 row = 6
 coli = col -1 # max. index in col
